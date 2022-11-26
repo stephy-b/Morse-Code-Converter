@@ -55,7 +55,7 @@ def convert_to_morse(starting_text):
         new_char = morse_dictionary.get(char)
         converted_message.append(new_char)
         
-    print(''.join(converted_message))
+    print(' '.join(converted_message))
     
     
 print(logo)
