@@ -1,5 +1,3 @@
-###  My "first attempt" which was rather basic and redundant.  It does work, except for spaces, I think.  A nice reminder of how far I've come.  ###
-
 from art import logo
 
 alphabet = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
